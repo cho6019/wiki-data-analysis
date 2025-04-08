@@ -6,3 +6,13 @@
   3. 인스턴스에 GS의 데이터 불러오기 및 처리 스크립트 작성
   4. 로컬 AIRFLOW를 이용한 SSH 명령 자동화 작업 DAGS 작성
   5. 로컬 SPARK 및 ZEPPLIN으로 얻어낸 데이터에 대한 분석 실행
+
+
+ ## 참여자
+ 조성근, 배형균, 조민규
+
+
+ ## LOCAL AIRFLOW REPOSITORY (DAGS File)
+
+ 조민규 -https://github.com/cho6019/myairflow
+ 
