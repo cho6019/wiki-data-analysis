@@ -1,5 +1,7 @@
 # wiki-data-analysis
 
+<img src="https://github.com/cho6019/wiki-data-analysis/blob/nunininu/wiki-data-analysis_SUMMARY.png"/>
+
 ## 작업 과정
 - 1. GCP GS에 위키피디아 검색 데이터 배치
   2. GCP 인스턴스 생성 후 SPARK 설치 및 MASTER, WORKER 노드 생성
@@ -9,12 +11,12 @@
 
 
  ## 참여자
- 조성근, 배형균, 조민규
+ 조성근(nunininu), 배형균(lucas-hub12), 조민규(cho6019)
 
 
  ## LOCAL AIRFLOW REPOSITORY (DAGS File)
 
- 조성근 - https://github.com/nunininu/myairflow
- 배형균 - 
- 조민규 - https://github.com/cho6019/myairflow
+ - 조성근 - https://github.com/nunininu/myairflow
+ - 배형균 - 
+ - 조민규 - https://github.com/cho6019/myairflow
  
